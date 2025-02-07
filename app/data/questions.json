@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "image": null,
+      "type": "single",
+      "points": 3,
+      "choices": [
+        { "id": "a", "text": "Paris" },
+        { "id": "b", "text": "Berlin" },
+        { "id": "c", "text": "Rome" },
+        { "id": "d", "text": "Madrid" }
+      ],
+      "correctAnswers": ["a"]
+    },
+    {
+      "id": 2,
+      "question": "Select the prime numbers.",
+      "image": null,
+      "type": "multiple",
+      "points": 2,
+      "choices": [
+        { "id": "a", "text": "2" },
+        { "id": "b", "text": "3" },
+        { "id": "c", "text": "4" },
+        { "id": "d", "text": "5" }
+      ],
+      "correctAnswers": ["a", "b", "d"]
+    },
+    {
+      "id": 3,
+      "question": "What does the following image represent?",
+      "image": "https://example.com/image.png",
+      "type": "single",
+      "points": 3,
+      "choices": [
+        { "id": "a", "text": "Sunset" },
+        { "id": "b", "text": "Sunrise" },
+        { "id": "c", "text": "Midday" },
+        { "id": "d", "text": "Night" }
+      ],
+      "correctAnswers": ["a"]
+    }
+  ]
+  
