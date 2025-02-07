@@ -1,45 +1,595 @@
 [
-    {
-      "id": 1,
-      "question": "What is the capital of France?",
-      "image": null,
-      "type": "single",
-      "points": 3,
-      "choices": [
-        { "id": "a", "text": "Paris" },
-        { "id": "b", "text": "Berlin" },
-        { "id": "c", "text": "Rome" },
-        { "id": "d", "text": "Madrid" }
-      ],
-      "correctAnswers": ["a"]
-    },
-    {
-      "id": 2,
-      "question": "Select the prime numbers.",
-      "image": null,
-      "type": "multiple",
-      "points": 2,
-      "choices": [
-        { "id": "a", "text": "2" },
-        { "id": "b", "text": "3" },
-        { "id": "c", "text": "4" },
-        { "id": "d", "text": "5" }
-      ],
-      "correctAnswers": ["a", "b", "d"]
-    },
-    {
-      "id": 3,
-      "question": "What does the following image represent?",
-      "image": "https://example.com/image.png",
-      "type": "single",
-      "points": 3,
-      "choices": [
-        { "id": "a", "text": "Sunset" },
-        { "id": "b", "text": "Sunrise" },
-        { "id": "c", "text": "Midday" },
-        { "id": "d", "text": "Night" }
-      ],
-      "correctAnswers": ["a"]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "question": "Mientras conduce usted siente un fuerte olor a gasolina. ¿Qué debería hacer usted?",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "No preocuparse, ya que sólo son los gases de escape"
+      },
+      {
+        "id": "b",
+        "text": "Continuar a una velocidad reducida"
+      },
+      {
+        "id": "c",
+        "text": "Continuar porque sabe que se detendrá algunos kilómetros más allá"
+      },
+      {
+        "id": "d",
+        "text": "Detenerse e investigar el problema"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál es la principal razón para usar zapatos apropiados cuando conduce?",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Para tener un adecuado control de los pedales"
+      },
+      {
+        "id": "b",
+        "text": "Para evitar el desgaste acelerado de las gomas de los pedales"
+      },
+      {
+        "id": "c",
+        "text": "Para poder efectuar los cambios de marcha más rápidamente"
+      },
+      {
+        "id": "d",
+        "text": "Para poder caminar sin problemas en el caso que necesite solicitar ayuda"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Es esencial que la presión de los neumáticos sea chequeada regularmente. ¿Cuándo se debe hacer esto?",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Después de un viaje largo"
+      },
+      {
+        "id": "b",
+        "text": "Después de conducir a alta velocidad"
+      },
+      {
+        "id": "c",
+        "text": "Cuando los neumáticos están fríos"
+      },
+      {
+        "id": "d",
+        "text": "Cuando los neumáticos están calientes"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "La presión de los neumáticos debe revisarse",
+    "image": null,
+    "type": "single",
+    "points": 3,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Cuando los neumáticos están fríos"
+      },
+      {
+        "id": "b",
+        "text": "Cuando los neumáticos están calientes"
+      },
+      {
+        "id": "c",
+        "text": "En cualquier momento, porque da igual que los neumáticos estén fríos o calientes"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "¿Por qué los neumáticos deben mantenerse a la presión indicada por el fabricante?",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Para que el vehículo se mantenga a la altura correcta sobre la vía"
+      },
+      {
+        "id": "b",
+        "text": "Para no desgastar el motor"
+      },
+      {
+        "id": "c",
+        "text": "Para ayudar a evitar que el vehículo se roncee"
+      },
+      {
+        "id": "d",
+        "text": "Para evitar que el vehículo tienda a irse hacia un lado"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "¿A qué se debe un alto consumo de combustible?",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Fallas en el sistema de dirección"
+      },
+      {
+        "id": "b",
+        "text": "Aceleraciones en curvas"
+      },
+      {
+        "id": "c",
+        "text": "Frecuentes frenadas y aceleraciones"
+      },
+      {
+        "id": "d",
+        "text": "Conducción en marchas altas"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "¿Qué es lo que usted nunca debería hacer en una bomba de bencina?",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Circular por ella"
+      },
+      {
+        "id": "b",
+        "text": "Fumar"
+      },
+      {
+        "id": "c",
+        "text": "Comer"
+      },
+      {
+        "id": "d",
+        "text": "Lavar la motocicleta"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Desenganchar el motor",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "permite un mejor control al conductor"
+      },
+      {
+        "id": "b",
+        "text": "hace más fácil las maniobras"
+      },
+      {
+        "id": "c",
+        "text": "aumenta el consumo de combustible"
+      },
+      {
+        "id": "d",
+        "text": "reduce el control del conductor"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "¿Por qué no es bueno desenganchar el motor al ir circulando?",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Porque ello hace que el vehículo resbale"
+      },
+      {
+        "id": "b",
+        "text": "Porque el motor se detendrá"
+      },
+      {
+        "id": "c",
+        "text": "Porque no hay frenado del motor"
+      },
+      {
+        "id": "d",
+        "text": "Porque el motor funcionará más rápido"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "¿Cuáles son las 2 principales razones por las cuales no debe desengancharse el motor al ir cuesta abajo?",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Porque tendrá menor control del frenado y dirección"
+      },
+      {
+        "id": "b",
+        "text": "Porque el vehículo agarrará velocidad"
+      },
+      {
+        "id": "c",
+        "text": "Porque el consumo de combustible será mayor"
+      },
+      {
+        "id": "d",
+        "text": "Porque se gastan y deterioran más los neumáticos"
+      },
+      {
+        "id": "e",
+        "text": "Porque se daña el motor"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "¿Por qué usted no debería conducir presionando el embrague durante más tiempo que el necesario?",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Porque reduce su control sobre el vehículo"
+      },
+      {
+        "id": "b",
+        "text": "Porque aumenta el desgaste de la caja de cambios"
+      },
+      {
+        "id": "c",
+        "text": "Porque aumenta el consumo de combustible"
+      },
+      {
+        "id": "d",
+        "text": "Porque reduce el agarre de los neumáticos"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "En un pavimento mojado, ¿influye el estado de los neumáticos en la distancia de frenado de su vehículo?",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "No, la distancia de frenado depende sólo de la velocidad"
+      },
+      {
+        "id": "b",
+        "text": "No, porque una vez que se acciona el freno la distancia de frenado es siempre la misma para cada vehículo"
+      },
+      {
+        "id": "c",
+        "text": "Sí, a mayor desgaste de los neumáticos menor es dicha distancia"
+      },
+      {
+        "id": "d",
+        "text": "Sí, porque el mayor o menor desgaste de los neumáticos, entre otros factores, determinará que dicha distancia sea mayor o menor"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "¿Cuáles 2 de las siguientes afirmaciones son verdaderas?",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Los gases de escape no son peligrosos para la salud de las personas"
+      },
+      {
+        "id": "b",
+        "text": "La misión del silenciador es reducir el nivel de ruido"
+      },
+      {
+        "id": "c",
+        "text": "Los gases de escape contienen monóxido de carbono, que carece de olor y es incoloro"
+      },
+      {
+        "id": "d",
+        "text": "Los vapores de la gasolina son inocuos"
+      }
+    ],
+    "correctAnswers": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "¿Cuál o cuáles de las siguientes afirmaciones es(son) verdadera(s)?",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Una profundidad de 1 mm de los surcos de las bandas de rodamiento de los neumáticos siempre es suficiente para asegurar una buena fricción con el pavimento"
+      },
+      {
+        "id": "b",
+        "text": "Un desgaste notorio de la zona central de las bandas de rodamiento de los neumáticos indica que éstos se han usado con muy poco aire"
+      },
+      {
+        "id": "c",
+        "text": "Conducir con neumáticos desgastados irregularmente hace más riesgosa la conducción"
+      },
+      {
+        "id": "d",
+        "text": "Los rayos sueltos o cortados no influyen mayormente en la seguridad al conducir"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "¿Qué requisito(s) debe cumplir un casco de motociclista para que sea efectivamente un elemento de seguridad?",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Debe ser del tipo integral"
+      },
+      {
+        "id": "b",
+        "text": "Debe tener una visera o mica sin manchas ni rayas"
+      },
+      {
+        "id": "c",
+        "text": "Debe ser del tamaño adecuado, de modo que quede bien ajustado"
+      },
+      {
+        "id": "d",
+        "text": "No debe haber sufrido un impacto fuerte"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "¿Cuál o cuáles de las siguientes afirmaciones es(son) verdadera(s)?",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Es conveniente que el motociclista use un traje de seguridad, de cuero y con protecciones especiales para la espalda, rodillas, hombros y codos"
+      },
+      {
+        "id": "b",
+        "text": "La mejor protección para los pies y pantorrillas de un motociclista la puede brindar un buen par de botas de seguridad"
+      },
+      {
+        "id": "c",
+        "text": "No es conveniente que un motociclista use guantes de cuero"
+      },
+      {
+        "id": "d",
+        "text": "Los cascos de buena calidad tienen fecha de vencimiento"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "¿Qué elementos de su vehículo debe mantener usted limpios?",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Las luces"
+      },
+      {
+        "id": "b",
+        "text": "Los espejos"
+      },
+      {
+        "id": "c",
+        "text": "Los neumaticos"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Los motociclistas son más vulnerables que los conductores de automóviles. De las siguientes razones, ¿cuál es la que más influye en ello? ",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Circulan a velocidades más altas"
+      },
+      {
+        "id": "b",
+        "text": "Efectúan los virajes a mayor velocidad"
+      },
+      {
+        "id": "c",
+        "text": "Se ven más afectados por las condiciones y estado de la carpeta de rodado"
+      },
+      {
+        "id": "d",
+        "text": "Pueden acelerar más rápido que los autos"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Suponga que en una ocasión \n - su distancia de reacción es de 10 metros \n - su distancia de frenado es de 8 metros \n - su distancia de detención (distancia de reacción más distancia de frenado) es de 18 metros \n ¿Cuál sería su distancia de detención si sigue conduciendo en calzada de idénticas características y condiciones, pero aumenta al doble su velocidad?",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "46 metros"
+      },
+      {
+        "id": "b",
+        "text": "52 metros"
+      },
+      {
+        "id": "c",
+        "text": "64 metros"
+      },
+      {
+        "id": "d",
+        "text": "78 metros"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "¿Cuál de las siguientes afirmaciones es falsa cuando usted aumenta su velocidad de 30 km/h a 60 km/h?",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Se duplica la energía cinética"
+      },
+      {
+        "id": "b",
+        "text": "Se cuadruplica la energía cinética"
+      },
+      {
+        "id": "c",
+        "text": "Se duplica la distancia de reacción"
+      },
+      {
+        "id": "d",
+        "text": "Se cuadruplica la distancia de frenado"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "El auto azul circula a 70 km/h y el rojo a 90 km/h. ¿Dónde es más probable que sus conductores estimen el punto en que se producirá el encuentro de ambos vehículos?\nMarque dos respuestas",
+    "image": "21.jpg",
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "El conductor del auto rojo estima que dicho punto será el 3"
+      },
+      {
+        "id": "b",
+        "text": "El conductor del auto rojo estima que dicho punto será el 2"
+      },
+      {
+        "id": "c",
+        "text": "El conductor del auto azul estima que dicho punto será el 1"
+      },
+      {
+        "id": "d",
+        "text": "El conductor del auto azul estima que dicho punto será el 3"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "d"
+    ]
+  }
+]
