@@ -3543,5 +3543,2788 @@
     "correctAnswers": [
       "b"
     ]
+  },
+  {
+    "id": 121,
+    "question": "Como regla general, ¿en cuál o cuáles de los siguientes lugares nunca debe estacionar?\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "En un paso de peatones"
+      },
+      {
+        "id": "b",
+        "text": "En un puente"
+      },
+      {
+        "id": "c",
+        "text": "A menos de 10 metros de una esquina"
+      },
+      {
+        "id": "d",
+        "text": "Al costado derecho de una vía urbana"
+      },
+      {
+        "id": "e",
+        "text": "En o al llegar a una parada de locomoción colectiva"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ]
+  },
+  {
+    "id": 122,
+    "question": "¿Qué haría usted ante esta situación?\nMarque una respuesta",
+    "explanation": "",
+    "image": "122.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Continúa a la misma velocidad"
+      },
+      {
+        "id": "b",
+        "text": "Toca la bocina"
+      },
+      {
+        "id": "c",
+        "text": "Pasa el paso de peatones lo más rápido posible"
+      },
+      {
+        "id": "d",
+        "text": "Se detiene"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 123,
+    "question": "¿Adquiere usted un derecho sobre otros usuarios de la vía cuando utiliza sus luces indicadoras de viraje?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Sí, el usar las luces indicadoras de viraje le da a usted preferencia sobre los conductores que van en igual dirección a la suya"
+      },
+      {
+        "id": "b",
+        "text": "Sí, y además de darle a usted preferencia le exime de cualquier responsabilidad"
+      },
+      {
+        "id": "c",
+        "text": "No, porque usted sólo está advirtiendo su intención de realizar una maniobra que hará cuando sea seguro hacerla"
+      },
+      {
+        "id": "d",
+        "text": "Sí, pero sólo en el caso que usted esté tratando de abandonar un estacionamiento al borde de la calzada"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Usted se aproxima a un cruce cebra. En la vereda hay peatones esperando cruzar. ¿Qué hace usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Disminuye la velocidad y se prepara para detenerse"
+      },
+      {
+        "id": "b",
+        "text": "Da la pasada a los peatones sólo si éstos son ancianos o niños"
+      },
+      {
+        "id": "c",
+        "text": "Usa sus luces para indicarles que pueden pasar"
+      },
+      {
+        "id": "d",
+        "text": "Toca la bocina para indicarles que pueden cruzar"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Usted está circulando por una vía rápida en buenas condiciones. ¿Cómo puede estar seguro de que lo hace a una distancia adecuada del vehículo que va adelante?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "La distancia entre usted y el vehículo que va adelante debería ser dos veces el largo de su vehículo"
+      },
+      {
+        "id": "b",
+        "text": "La distancia entre usted y el vehículo que va adelante debería ser igual a su distancia de frenado"
+      },
+      {
+        "id": "c",
+        "text": "La distancia entre usted y el vehículo que va adelante debería ser a lo menos igual a la que usted recorre en tres segundos"
+      },
+      {
+        "id": "d",
+        "text": "La distancia entre usted y el vehículo que va adelante debería ser a lo menos igual a la que usted recorre en un segundo"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 126,
+    "question": "El conductor detrás suyo le sigue muy de cerca. ¿Qué hace usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Señaliza a la derecha y le indica con lo mano para que lo adelante"
+      },
+      {
+        "id": "b",
+        "text": "Disminuye la velocidad y le permite que lo adelante"
+      },
+      {
+        "id": "c",
+        "text": "No hace nada y se mantiene dentro del límite de velocidad"
+      },
+      {
+        "id": "d",
+        "text": "Se acerca hacia el centro de la calzada"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Usted va conduciendo en una carretera a la velocidad máxima permitida. El conductor que viene detrás suyo está tratando de adelantarlo. ¿Qué hace usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Se acerca más al vehículo de adelante para que el conductor que viene atrás no tenga espacio suficiente para el adelantamiento"
+      },
+      {
+        "id": "b",
+        "text": "Le hace señas al conductor de atrás para que lo adelante, cuando sea seguro hacerlo"
+      },
+      {
+        "id": "c",
+        "text": "Acelera para alejarse del conductor de atrás"
+      },
+      {
+        "id": "d",
+        "text": "Mantiene o disminuye la velocidad y permite el adelantamiento"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Usted se está aproximando a un cruce cuando sorpresivamente un vehículo ingresa a la vía por la que usted va y se ubica delante suyo. ¿Qué hace usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Lo esquiva y toca la bocina"
+      },
+      {
+        "id": "b",
+        "text": "Disminuye la velocidad y está atento para detenerse"
+      },
+      {
+        "id": "c",
+        "text": "Enciende y apaga sus luces y continúa muy cerca detrás de él"
+      },
+      {
+        "id": "d",
+        "text": "Acelera pasándolo inmediatamente"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Un espacio entre usted y el vehículo que marcha delante igual a lo que usted recorre en tres segundos es suficiente cuando ...\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "las condiciones climáticas son buenas"
+      },
+      {
+        "id": "b",
+        "text": "está lloviendo fuertemente"
+      },
+      {
+        "id": "c",
+        "text": "recién ha cesado de llover"
+      },
+      {
+        "id": "d",
+        "text": "hay neblina"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Usted está conduciendo al límite de la velocidad máxima permitida y un conductor intenta adelantarlo. ¿Trataría usted de evitar que lo adelante?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "No, a menos que sea seguro hacerlo"
+      },
+      {
+        "id": "b",
+        "text": "Sí, porque el otro conductor está actuando en forma peligrosa"
+      },
+      {
+        "id": "c",
+        "text": "Sí, porque el otro conductor está infringiendo la ley"
+      },
+      {
+        "id": "d",
+        "text": "No, en ningún momento"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 131,
+    "question": "De los siguientes factores, ¿cuál es el que con mayor frecuencia se presenta en las colisiones por la parte trasera?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "El conducir demasiado cerca del vehículo que va adelante"
+      },
+      {
+        "id": "b",
+        "text": "El cambio repentino de las luces de los semáforos"
+      },
+      {
+        "id": "c",
+        "text": "La existencia de peatones que cruzan en áreas muy concurridas"
+      },
+      {
+        "id": "d",
+        "text": "El detenerse en todos los cruces"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Usted está esperando poder incorporarse a una vía principal desde una calle lateral. ¿Por qué razón debería usted poner especial atención a otras motocicletas?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Porque generalmente las motocicletas circulan más rápido que los autos"
+      },
+      {
+        "id": "b",
+        "text": "Porque las patrullas de Carabineros suelen andar en motocicletas"
+      },
+      {
+        "id": "c",
+        "text": "Porque las motocicletas son pequeñas y difíciles de ver"
+      },
+      {
+        "id": "d",
+        "text": "Porque las motocicletas tienen el derecho preferente de paso"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 133,
+    "question": "¿Cuál de los siguientes grupos de conductores tiene mayores probabilidades de verse involucrado en un accidente de tránsito?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Los que tienen menos de 25 años"
+      },
+      {
+        "id": "b",
+        "text": "Los que tienen entre 36 y 45 años"
+      },
+      {
+        "id": "c",
+        "text": "Los que tienen entre 46 y 55 años"
+      },
+      {
+        "id": "d",
+        "text": "Los que tienen más de 55 años"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 134,
+    "question": "En una zona rural, usted va conduciendo por un camino muy angosto. ¿Dónde le resultaría más difícil ver personas a caballo que avanzan delante suyo?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Al ir usted bajando un cerro"
+      },
+      {
+        "id": "b",
+        "text": "Al ir ellas subiendo un cerro"
+      },
+      {
+        "id": "c",
+        "text": "Al ir usted en una curva a la izquierda"
+      },
+      {
+        "id": "d",
+        "text": "Al ir usted en una curva a la derecha"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Usted va detrás de un camión articulado que se aproxima a un cruce. Su conductor señaliza hacia la derecha pero el vehículo se desplaza hacia la izquierda. ¿Qué debe hacer usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": "135.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Advertirle al conductor acerca de su señal equivocada"
+      },
+      {
+        "id": "b",
+        "text": "Esperar detrás del camión"
+      },
+      {
+        "id": "c",
+        "text": "Denunciar a Carabineros al conductor"
+      },
+      {
+        "id": "d",
+        "text": "Pasar al camión por la derecha."
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 136,
+    "question": "En una carretera de doble calzada con 2 pistas por sentido de tránsito, usted desea pasar al vehículo que va delante suyo. Por su espejo retrovisor ve que el auto que viene atrás se está cambiando de pista para sobrepasarlo a usted. ¿Qué debería hacer usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Señalizar y luego cambiar de pista para sobrepasar"
+      },
+      {
+        "id": "b",
+        "text": "Señalizar para indicarle al conductor que viene atrás que usted también desea sobrepasar"
+      },
+      {
+        "id": "c",
+        "text": "No señalizar hasta que el auto lo haya pasado"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Un vehículo emerge sorpresivamente desde una vía lateral situándose delante suyo y obligándolo a frenar fuertemente. ¿Qué hace usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Enciende y apaga sus luces para manifestarle su enojo"
+      },
+      {
+        "id": "b",
+        "text": "Ignora el error y permanece calmado"
+      },
+      {
+        "id": "c",
+        "text": "Toca la bocina para demostrar su enojo"
+      },
+      {
+        "id": "d",
+        "text": "Lo adelanta dejándolo atrás lo antes posible"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Usted se detiene ante un cruce cebra. En la vereda hay peatones esperando, pero ellos no comienzan a cruzar. ¿Qué hace usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Les toca la bocina para apurarlos"
+      },
+      {
+        "id": "b",
+        "text": "Tiene paciencia y espera"
+      },
+      {
+        "id": "c",
+        "text": "Prosigue su marcha"
+      },
+      {
+        "id": "d",
+        "text": "Les hace señas con la mano apurándolos para que crucen"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Cuando el viento sopla muy fuertemente usted necesita tener especial cuidado ...\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "al usar los frenos"
+      },
+      {
+        "id": "b",
+        "text": "al comenzar a subir una pendiente"
+      },
+      {
+        "id": "c",
+        "text": "al virar hacia un camino angosto"
+      },
+      {
+        "id": "d",
+        "text": "al pasar cerca de ciclistas"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 140,
+    "question": "En un cruce hay peatones atravesando la calle hacia la cual usted está virando. ¿Qué debe hacer usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Hacerles señas con la mano para que continúen"
+      },
+      {
+        "id": "b",
+        "text": "Tocar la bocina para hacerles notar que usted está ahí"
+      },
+      {
+        "id": "c",
+        "text": "Esperar que crucen"
+      },
+      {
+        "id": "d",
+        "text": "Pasar rápidamente por delante de ellos"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 141,
+    "question": "En un cruce hay peatones atravesando la calle hacia la cual usted está virando. ¿Qué hace usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Espera permitiéndoles que crucen"
+      },
+      {
+        "id": "b",
+        "text": "Continúa ya que usted tiene el derecho preferente de paso"
+      },
+      {
+        "id": "c",
+        "text": "Les hace señas para que retrocedan"
+      },
+      {
+        "id": "d",
+        "text": "Les toca la bocina para advertirles su presencia"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 142,
+    "question": "¿Dónde debe tener usted especial cuidado con los demás motociclistas?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "En una estación de servicio"
+      },
+      {
+        "id": "b",
+        "text": "En los cruces de calles"
+      },
+      {
+        "id": "c",
+        "text": "En las proximidades de un área de servicio"
+      },
+      {
+        "id": "d",
+        "text": "Al ingresar a un recinto o área de estacionamientos"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Cuando conduce en la ciudad ¿por qué razón debería usted tener cuidado al cruzarse con un bus que se encuentra detenido en una parada?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Porque el bus puede estar en pana"
+      },
+      {
+        "id": "b",
+        "text": "Porque el bus puede ponerse en movimiento repentinamente"
+      },
+      {
+        "id": "c",
+        "text": "Porque pueden aparecer peatones detrás del bus"
+      },
+      {
+        "id": "d",
+        "text": "Porque el bus puede permanecer detenido"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 144,
+    "question": "Usted se encuentra muy próximo a un cruce en el que pretende virar a la derecha. Delante suyo va un ciclista. ¿Qué hace usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Adelanta al ciclista antes del cruce"
+      },
+      {
+        "id": "b",
+        "text": "Rodea al ciclista en el cruce"
+      },
+      {
+        "id": "c",
+        "text": "Se mantiene detrás del ciclista hasta que éste haya pasado la intersección"
+      },
+      {
+        "id": "d",
+        "text": "Se sitúa al lado del ciclista, sigue en línea recta y desiste de virar"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 145,
+    "question": "Usted va conduciendo por un camino de doble tránsito cuando se encuentra con personas que van a caballo delante suyo. ¿Qué es lo primero que usted debería hacer?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Desplazarse hacia el centro de la calzada"
+      },
+      {
+        "id": "b",
+        "text": "Acelerar alrededor de ellos"
+      },
+      {
+        "id": "c",
+        "text": "Señalizar hacia la izquierda"
+      },
+      {
+        "id": "d",
+        "text": "Prepararse para reducir la velocidad"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 146,
+    "question": "¿Cómo debería usted adelantar a personas que van a caballo?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Conduciendo lentamente y dejando bastante espacio lateral"
+      },
+      {
+        "id": "b",
+        "text": "Pasando cerca de ellas y adelantándolas lo antes posible"
+      },
+      {
+        "id": "c",
+        "text": "La velocidad no es importante, pero sí el dejar suficiente espacio lateral"
+      },
+      {
+        "id": "d",
+        "text": "Tocando la bocina sólo una vez como señal de advertencia"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 147,
+    "question": "Usted va circulando a 65km/h aproximadamente cuando, lamentablemente, atropella a un peatón. A esa velocidad,....\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "es seguro que el peatón morirá"
+      },
+      {
+        "id": "b",
+        "text": "es muy probable que el peatón muera"
+      },
+      {
+        "id": "c",
+        "text": "es seguro que el peatón sobrevivirá"
+      },
+      {
+        "id": "d",
+        "text": "es muy probable que el peatón sobreviva"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 148,
+    "question": "Usted va siguiendo a un automóvil que es conducido por una persona de edad. Usted debería...\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "dar por seguro que el conductor manejará muy mal"
+      },
+      {
+        "id": "b",
+        "text": "estar consciente de que las reacciones del conductor pueden no ser tan rápidas como las suyas"
+      },
+      {
+        "id": "c",
+        "text": "encender y apagar sus luces y adelantarlo"
+      },
+      {
+        "id": "d",
+        "text": "mantenerse muy cerca tras él y conducir cuidadosamente"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 149,
+    "question": "Usted nunca debería intentar adelantar a un ciclista ....\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "justo antes de doblar a la derecha"
+      },
+      {
+        "id": "b",
+        "text": "justo antes de doblar a la izquierda"
+      },
+      {
+        "id": "c",
+        "text": "recién pasada una intersección"
+      },
+      {
+        "id": "d",
+        "text": "en un camino de tierra"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Cuando adelanta a un ciclista usted debe dejar el máximo espacio lateral posible. ¿Por qué?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Porque el ciclista podría cambiar de pista"
+      },
+      {
+        "id": "b",
+        "text": "Porque el ciclista podría bajarse de la bicicleta"
+      },
+      {
+        "id": "c",
+        "text": "Porque el ciclista podría tener que virar a la izquierda"
+      },
+      {
+        "id": "d",
+        "text": "Porque el ciclista podría desviarse bruscamente"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 151,
+    "question": "¿De qué le advierte esta señal?\nMarque una respuesta",
+    "explanation": "",
+    "image": "151.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "De la posible presencia de escolares"
+      },
+      {
+        "id": "b",
+        "text": "De la proximidad de un cruce de peatones"
+      },
+      {
+        "id": "c",
+        "text": "De la posible presencia de niños jugando"
+      },
+      {
+        "id": "d",
+        "text": "De la proximidad de un parque o plaza"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 152,
+    "question": "Cuando es de noche, al adelantar usted debería ...\nMarque dos respuestas ",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "tener mucho cuidado porque nuestra capacidad visual se ve reducida"
+      },
+      {
+        "id": "b",
+        "text": "mantener en todo momento sus luces altas"
+      },
+      {
+        "id": "c",
+        "text": "tocar 2 veces la bocina antes de desplazarse hacia la pista izquierda"
+      },
+      {
+        "id": "d",
+        "text": "estar muy atento a las curvas que pueda tener el camino"
+      },
+      {
+        "id": "e",
+        "text": "cambiar de luces altas a bajas repetidas veces antes de iniciar el adelantamiento"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 153,
+    "question": "Por una carretera, usted circula detrás de otro vehículo. Si la calzada está mojada, ¿qué espacio de tiempo mínimo mantiene usted respecto del vehículo que va adelante?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "A lo menos, el equivalente a lo que recorre en 4 segundos"
+      },
+      {
+        "id": "b",
+        "text": "El equivalente a lo que recorre en 1 segundo"
+      },
+      {
+        "id": "c",
+        "text": "El equivalente a lo que recorre en 2 segundos"
+      },
+      {
+        "id": "d",
+        "text": "Como máximo, el equivalente a lo que recorre en 3 segundos"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Usted está conduciendo de noche y es encandilado por las luces delanteras de un vehículo que se aproxima. En estas circunstancias, ¿qué hace usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Reduce la velocidad o se detiene"
+      },
+      {
+        "id": "b",
+        "text": "Cierra sus ojos"
+      },
+      {
+        "id": "c",
+        "text": "Hace parpadear sus luces"
+      },
+      {
+        "id": "d",
+        "text": "Aumenta la velocidad"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 155,
+    "question": "¿Cuál o cuáles de las siguientes afirmaciones son correctas en cuanto a la conducción durante la noche?\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "En carretera, con luces bajas es posible ver las marcas en el pavimento a 200 m y más"
+      },
+      {
+        "id": "b",
+        "text": "Nuestra limitada capacidad para ver de noche aumenta los riesgos de accidentes"
+      },
+      {
+        "id": "c",
+        "text": "Nuestra capacidad de apreciar distancias en la noche se ve disminuida"
+      },
+      {
+        "id": "d",
+        "text": "El color de las ropas de un peatón influye en que éste pueda ser más o menos visible para los conductores"
+      }
+    ],
+    "correctAnswers": [
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 156,
+    "question": "¿Cuál o cuáles de las siguientes afirmaciones es(son) correcta(s) en cuanto a la conducción nocturna en un camino rural?\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Al cruzarse con otro vehículo siempre hay que poner luces bajas para no encandilar a su conductor"
+      },
+      {
+        "id": "b",
+        "text": "Al acercarse por atrás a otro vehículo hay que poner luces bajas"
+      },
+      {
+        "id": "c",
+        "text": "Al cruzarse con un ciclista no es necesario poner luces bajas"
+      },
+      {
+        "id": "d",
+        "text": "Si el camino es ancho no es necesario poner luces bajas al cruzarse con otro vehículo"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 157,
+    "question": "¿Cuál o cuáles de las siguientes afirmaciones es(son) correcta(s) en cuanto a la conducción bajo la lluvia?\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Cuando los neumáticos son nuevos no hay riesgo de que éstos patinen a consecuencia del agua en la calzada"
+      },
+      {
+        "id": "b",
+        "text": "Independientemente del estado de los neumáticos, el riesgo de que éstos patinen es mayor mientras mayor es la velocidad"
+      },
+      {
+        "id": "c",
+        "text": "El riesgo de que los neumáticos patinen es menor cuando recién ha comenzado a llover"
+      },
+      {
+        "id": "d",
+        "text": "Cuando los frenos están buenos el riesgo de patinaje no existe"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 158,
+    "question": "¿Cuáles son las 2 causas más comunes de los resbalones ante la existencia de agua en la calzada?\nMarque dos respuestas",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Frenos en mal estado"
+      },
+      {
+        "id": "b",
+        "text": "Neumáticos desgastados"
+      },
+      {
+        "id": "c",
+        "text": "Exceso de velocidad en relación a las condiciones de la calzada"
+      },
+      {
+        "id": "d",
+        "text": "Fallas en el sistema de dirección"
+      }
+    ],
+    "correctAnswers": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Viajando de noche usted es encandilado por las luces de un vehículo que viene en sentido contrario, ¿qué debería hacer usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Acelerar para alejarse pronto de lo que lo encandila"
+      },
+      {
+        "id": "b",
+        "text": "Poner luces delanteras altas"
+      },
+      {
+        "id": "c",
+        "text": "Poner su mano sobre sus ojos"
+      },
+      {
+        "id": "d",
+        "text": "Bajar la velocidad y eventualmente detenerse"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Conduciendo de noche usted se ve encandilado por las luces de un vehículo que viene en sentido contrario, ¿qué debería hacer usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Frenar fuerte"
+      },
+      {
+        "id": "b",
+        "text": "Acelerar para alejarse rápido del vehículo que lo encandila"
+      },
+      {
+        "id": "c",
+        "text": "Hacer parpadear sus luces"
+      },
+      {
+        "id": "d",
+        "text": "Bajar la velocidad o detenerse"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 161,
+    "question": "Al frenar en una calzada mojada su vehículo comienza a patinar. ¿Qué es lo primero que usted debería hacer?\nMarque una respuesta",
+    "explanation": "Lo primero que usted debe hacer es retirar la causa del patinaje, que en este caso es el freno. Luego, debería aplicar los frenos suavemente",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Soltar el freno completamente"
+      },
+      {
+        "id": "b",
+        "text": "Acelerar"
+      },
+      {
+        "id": "c",
+        "text": "Apretar con más fuerza el freno"
+      },
+      {
+        "id": "d",
+        "text": "Presionar el embrague"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 162,
+    "question": "¿Cómo puede usted evitar que los neumáticos patinen cuando la calzada está con hielo?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Manteniéndose siempre en primera"
+      },
+      {
+        "id": "b",
+        "text": "Frenando si las ruedas comienzan a patinar"
+      },
+      {
+        "id": "c",
+        "text": "Conduciendo lentamente en la marcha más alta posible"
+      },
+      {
+        "id": "d",
+        "text": "Conduciendo en neutro"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 163,
+    "question": "Cuando la calzada está con hielo la distancia de frenado puede ser ...\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "2 veces la distancia norma"
+      },
+      {
+        "id": "b",
+        "text": "5 veces la distancia normal"
+      },
+      {
+        "id": "c",
+        "text": "7 veces la distancia normal"
+      },
+      {
+        "id": "d",
+        "text": "10 veces la distancia norma"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Al conducir con neblina a la luz del día, ¿qué luz enciende usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "La luz delantera baja"
+      },
+      {
+        "id": "b",
+        "text": "La luz delantera alta"
+      },
+      {
+        "id": "c",
+        "text": "Las luces intermitentes de viraje"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 165,
+    "question": "Al conducir sobre una calzada con hielo usted siente la dirección de su vehículo más liviana. ¿Por qué sucede esto?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Porque los neumáticos tienen menos adherencia a la calzada"
+      },
+      {
+        "id": "b",
+        "text": "Porque los neumáticos tienen más adherencia a la calzada"
+      },
+      {
+        "id": "c",
+        "text": "Porque los neumáticos están demasiado blandos"
+      },
+      {
+        "id": "d",
+        "text": "Porque los neumáticos están demasiado duros"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 166,
+    "question": "¿Cuándo es su distancia de detención total mucho más larga?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Cuando hay neblina"
+      },
+      {
+        "id": "b",
+        "text": "Cuando es de noche"
+      },
+      {
+        "id": "c",
+        "text": "Cuando está lloviendo"
+      },
+      {
+        "id": "d",
+        "text": "Cuando la temperatura es alta"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 167,
+    "question": "¿Cómo puede usted evitar que su vehículo patine cuando la calzada está cubierta con una capa de hielo?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Usando el freno si las ruedas comienzan a resbalar"
+      },
+      {
+        "id": "b",
+        "text": "Conduciendo a una velocidad baja en el cambio más alto posible"
+      },
+      {
+        "id": "c",
+        "text": "Frenando suave y repetidamente"
+      },
+      {
+        "id": "d",
+        "text": "Conduciendo en un cambio bajo todo el tiempo"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 168,
+    "question": "Usted está conduciendo bajo mucha lluvia y repentinamente siente la dirección muy liviana. ¿Qué hace usted para tener nuevamente el control de su vehículo?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Cambia a una marcha más baja"
+      },
+      {
+        "id": "b",
+        "text": "Frena levemente para reducir la velocidad"
+      },
+      {
+        "id": "c",
+        "text": "Guía el vehículo por la parte más seca de la calzada"
+      },
+      {
+        "id": "d",
+        "text": "Suelta el acelerador"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 169,
+    "question": "Cuando hay nieve lo mejor es conducir manteniéndose en la marcha más alta posible. ¿Por qué es esto?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Para reducir rápidamente la velocidad al frenar"
+      },
+      {
+        "id": "b",
+        "text": "Para que el patinaje de las ruedas no haga que el motor funcione demasiado rápido"
+      },
+      {
+        "id": "c",
+        "text": "Para ayudar a evitar que las ruedas patinen"
+      },
+      {
+        "id": "d",
+        "text": "Para dejar disponible una marcha baja en el caso de que las ruedas patinen"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 170,
+    "question": "¿Cuál es la principal razón por la cual su distancia de detención total es mayor después de una lluvia torrencial?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Porque puede que usted no vea las pozas grandes"
+      },
+      {
+        "id": "b",
+        "text": "Porque los frenos estarán fríos al estar mojados"
+      },
+      {
+        "id": "c",
+        "text": "Porque sus neumáticos tendrán menos adherencia sobre la calzada"
+      },
+      {
+        "id": "d",
+        "text": "Porque la visibilidad se reduce"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 171,
+    "question": "En una ocasión de mucha neblina usted va detrás de otros vehículos y lleva encendida su luz baja. ¿De qué otra forma puede reducir las probabilidades de verse involucrado en un accidente?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Usando su luz alta en vez de baja"
+      },
+      {
+        "id": "b",
+        "text": "Circulando a baja velocidad y aumentando la distancia al vehículo que va adelante"
+      },
+      {
+        "id": "c",
+        "text": "Manteniéndose cerca del vehículo que va delante suyo"
+      },
+      {
+        "id": "d",
+        "text": "Encendiendo sus luces intermitentes"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 172,
+    "question": "En un pavimento mojado usted va circulando detrás de un vehículo manteniéndose a una distancia segura de él. De pronto es adelantado por otro vehículo que se ubica en el espacio que usted había dejado. ¿Qué debería hacer usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Encender y apagar sus luces en señal de advertencia"
+      },
+      {
+        "id": "b",
+        "text": "Tratar de adelantar tan pronto pueda hacerlo en forma segura"
+      },
+      {
+        "id": "c",
+        "text": "Disminuir su velocidad hasta recuperar una distancia segura respecto del que va adelante"
+      },
+      {
+        "id": "d",
+        "text": "Mantener su velocidad y esperar a que el vehículo se aleje"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 173,
+    "question": "¿Cómo puede usted controlar mejor su vehículo al conducir con nieve?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Conduciendo en un cambio bajo y sujetando el volante muy firmemente"
+      },
+      {
+        "id": "b",
+        "text": "Conduciendo en primera"
+      },
+      {
+        "id": "c",
+        "text": "Manteniendo el motor acelerado y presionando el embrague"
+      },
+      {
+        "id": "d",
+        "text": "Conduciendo lentamente en el cambio más alto posible"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Al ir en su motocicleta de noche por una carretera usted debe mantener su foco delantero encendido, a menos que...\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "su vehículo esté en pana en la berma"
+      },
+      {
+        "id": "b",
+        "text": "vayan vehículos muy cerca delante suyo"
+      },
+      {
+        "id": "c",
+        "text": "circule a menos de 50 km/hr"
+      },
+      {
+        "id": "d",
+        "text": "a carretera esté iluminada"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 175,
+    "question": "¿Cómo debería conducir usted en una curva cuando hay hielo en la calzada?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Usando el embrague y el freno al mismo tiempo"
+      },
+      {
+        "id": "b",
+        "text": "Lenta y suavemente"
+      },
+      {
+        "id": "c",
+        "text": "En primera"
+      },
+      {
+        "id": "d",
+        "text": "Frenando a medida que va tomando la curva"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Hay mucha neblina y el auto que viene detrás suyo parece estar muy cerca. ¿Qué debería hacer usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Hacerle señales de luces"
+      },
+      {
+        "id": "b",
+        "text": "Desplazarse hacia el costado derecho y detenerse de inmediato"
+      },
+      {
+        "id": "c",
+        "text": "Acelerar y alejarse de él"
+      },
+      {
+        "id": "d",
+        "text": "Continuar con mucho cuidado"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 177,
+    "question": "Usted va conduciendo de noche por una carretera cerca de otros vehículos que van delante suyo. ¿Qué luz debería mantener encendida?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "La luz alta"
+      },
+      {
+        "id": "b",
+        "text": "La luz baja"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 178,
+    "question": "¿Por qué razón debería usted reducir siempre su velocidad al conducir con neblina?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Porque los frenos no funcionan bien"
+      },
+      {
+        "id": "b",
+        "text": "Porque las luces neblineras de otros lo pueden encandilar"
+      },
+      {
+        "id": "c",
+        "text": "Porque es más difícil ver lo que hay más adelante"
+      },
+      {
+        "id": "d",
+        "text": "Porque el motor está más frío"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 179,
+    "question": "En una calle de una pista por sentido de tránsito usted se encuentra con que su pista está obstruida. ¿Qué hace usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Continúa, porque usted tiene el derecho a vía"
+      },
+      {
+        "id": "b",
+        "text": "Hace señas con la mano a quienes vienen en contra para que le den la pasada"
+      },
+      {
+        "id": "c",
+        "text": "Cede el paso al tránsito que viene en sentido contrario"
+      },
+      {
+        "id": "d",
+        "text": "Acelera para poder pasar primero"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 181,
+    "question": "Usted va circulando por una carretera de doble calzada con tres pistas por sentido. Las demarcaciones de pistas y de eje central están reforzadas con tachas reflectantes. Si a su izquierda las tachas son rojas y a su derecha éstas son blancas, ¿por cuál pista va usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Por la pista del medio"
+      },
+      {
+        "id": "b",
+        "text": "Por la pista de la izquierda"
+      },
+      {
+        "id": "c",
+        "text": "Por la pista de la derecha"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Al ir circulando en su vehículo usted enfrenta esta señal. ¿Qué significa?\nMarque una respuesta",
+    "explanation": "",
+    "image": "182.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Que usted puede conducir hasta un 10% más rápido, porque la señal es sólo una recomendación"
+      },
+      {
+        "id": "b",
+        "text": "Que en días no hábiles, cuando hay poco tránsito, no rige tal restricción"
+      },
+      {
+        "id": "c",
+        "text": "Que usted no debe exceder esta velocidad"
+      },
+      {
+        "id": "d",
+        "text": "Que usted debe mantener una velocidad inferior a la indicada en la señal"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 183,
+    "question": "¿Qué significa esta señal?\nMarque una respuesta",
+    "explanation": "",
+    "image": "183.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Usted no debe exceder la velocidad indicada"
+      },
+      {
+        "id": "b",
+        "text": "Es más seguro conducir a la velocidad indicada"
+      },
+      {
+        "id": "c",
+        "text": "La velocidad indicada es la máxima aconsejada"
+      },
+      {
+        "id": "d",
+        "text": "Es una recomendación para cuando hay mucho tránsito"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 184,
+    "question": "¿Cuándo puede usted ingresar a un cruce en cuya calzada se han pintado franjas amarillas diagonales?\nMarque una respuesta",
+    "explanation": "",
+    "image": "184.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Siempre que el semáforo esté en verde"
+      },
+      {
+        "id": "b",
+        "text": "Cuando en la salida del cruce tenga espacio suficiente como para no quedar detenido en él"
+      },
+      {
+        "id": "c",
+        "text": "Cada vez que va a virar hacia la derecha"
+      },
+      {
+        "id": "d",
+        "text": "Sólo cuando haya menos de dos vehículos delante suyo"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 185,
+    "question": "¿Qué significa esta señal de tránsito?\nMarque una respuesta",
+    "explanation": "",
+    "image": "183.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Gravilla suelta"
+      },
+      {
+        "id": "b",
+        "text": "Peligro de que se pinchen los neumáticos"
+      },
+      {
+        "id": "c",
+        "text": "Pavimento resbaladizo"
+      },
+      {
+        "id": "d",
+        "text": "Curvas en el camino"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 186,
+    "question": "¿Qué significa esta señal?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "No adelantar"
+      },
+      {
+        "id": "b",
+        "text": "Mantenga su derecha"
+      },
+      {
+        "id": "c",
+        "text": "Preferencia al tránsito que viene en sentido contrario"
+      },
+      {
+        "id": "d",
+        "text": "No cambiar de pista"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 187,
+    "question": "¿Cuál de los siguientes tipos de señales le indica que no haga algo?\nMarque una respuesta",
+    "explanation": "",
+    "image": "187.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "A"
+      },
+      {
+        "id": "b",
+        "text": "B"
+      },
+      {
+        "id": "c",
+        "text": "C"
+      },
+      {
+        "id": "d",
+        "text": "D"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 188,
+    "question": "¿Qué debe hacer usted cuando enfrenta esta señal?\nMarque una respuesta",
+    "explanation": "",
+    "image": "188.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Detenerse sólo si viene algún vehículo por la otra vía"
+      },
+      {
+        "id": "b",
+        "text": "Detenerse sólo si hay peatones esperando para cruzar"
+      },
+      {
+        "id": "c",
+        "text": "Detenerse sólo si en la calzada está pintada la leyenda PARE"
+      },
+      {
+        "id": "d",
+        "text": "Detenerse siempre"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 189,
+    "question": "¿Qué significa esta señal?\nMarque una respuesta",
+    "explanation": "",
+    "image": "189.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Semáforo fuera de servicio"
+      },
+      {
+        "id": "b",
+        "text": "Proximidad de semáforo"
+      },
+      {
+        "id": "c",
+        "text": "Semáforo activado por peatones"
+      },
+      {
+        "id": "d",
+        "text": "Semáforos sincronizados"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 190,
+    "question": "¿Qué significa un semáforo en rojo?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Que usted puede seguir su camino si no vienen vehículos por la otra vía"
+      },
+      {
+        "id": "b",
+        "text": "Que usted debe disminuir su velocidad y estar preparado para detenerse"
+      },
+      {
+        "id": "c",
+        "text": "Que usted debe detenerse antes de la línea de detención de vehículos"
+      },
+      {
+        "id": "d",
+        "text": "Que usted debe detenerse sobre el paso de peatones"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 191,
+    "question": "¿Para qué sirven las señales amarillas con forma de rombo?\nMarque una respuesta",
+    "explanation": "",
+    "image": "191.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Para entregar información"
+      },
+      {
+        "id": "b",
+        "text": "Para dar órdenes"
+      },
+      {
+        "id": "c",
+        "text": "Para indicar direcciones"
+      },
+      {
+        "id": "d",
+        "text": "Para advertir acerca de peligros"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 192,
+    "question": "¿Qué significa un semáforo en amarillo?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Que usted debe prepararse para continuar"
+      },
+      {
+        "id": "b",
+        "text": "Que usted debe detenerse antes de entrar al cruce, a menos que no alcance a hacerlo en forma segura"
+      },
+      {
+        "id": "c",
+        "text": "Que usted debe continuar, siempre que vaya a virar"
+      },
+      {
+        "id": "d",
+        "text": "Que usted debe continuar si no hay peatones cruzando"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 193,
+    "question": "¿Qué significa esta señal?\nMarque una respuesta",
+    "explanation": "",
+    "image": "193.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Angostamiento de la vía"
+      },
+      {
+        "id": "b",
+        "text": "Preferencia al tránsito que viene en sentido contrario"
+      },
+      {
+        "id": "c",
+        "text": "Proximidad de doble calzada"
+      },
+      {
+        "id": "d",
+        "text": "Dos sentidos de tránsito más adelante"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 194,
+    "question": "¿Qué significa esta señal?\nMarque una respuesta",
+    "explanation": "",
+    "image": "194.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Zona de escuela"
+      },
+      {
+        "id": "b",
+        "text": "Cruce de peatones"
+      },
+      {
+        "id": "c",
+        "text": "Niños jugando"
+      },
+      {
+        "id": "d",
+        "text": "Peatón debe transitar por su izquierda"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 195,
+    "question": "¿Cuál de estas señales le previene que más adelante hay una serie de curvas?\nMarque una respuesta",
+    "explanation": "",
+    "image": "195.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "A"
+      },
+      {
+        "id": "b",
+        "text": "B"
+      },
+      {
+        "id": "c",
+        "text": "C"
+      },
+      {
+        "id": "d",
+        "text": "D"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 196,
+    "question": "¿Qué significa esta señal?\nMarque una respuesta",
+    "explanation": "",
+    "image": "196.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Que se cerca a una zona en la que no se permiten bicicletas"
+      },
+      {
+        "id": "b",
+        "text": "Que los ciclistas deben circular por la pista de la derecha"
+      },
+      {
+        "id": "c",
+        "text": "Que los ciclistas deben circular en sentido contrario"
+      },
+      {
+        "id": "d",
+        "text": "Que se acerca a una zona donde es muy probable la presencia de ciclistas en la vía"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 197,
+    "question": "¿Cuál de estas señales le advierte la proximidad de un cruce de peatones?\nMarque una respuesta",
+    "explanation": "",
+    "image": "197.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "A"
+      },
+      {
+        "id": "b",
+        "text": "B"
+      },
+      {
+        "id": "c",
+        "text": "C"
+      },
+      {
+        "id": "d",
+        "text": "D"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 198,
+    "question": "De las siguientes señales de tránsito, ¿cuál o cuáles corresponden a señales amarillas con forma de rombo?\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Puente angosto"
+      },
+      {
+        "id": "b",
+        "text": "Angostamiento de la vía"
+      },
+      {
+        "id": "c",
+        "text": "Dirección obligada"
+      },
+      {
+        "id": "d",
+        "text": "Mantenga su derecha"
+      },
+      {
+        "id": "e",
+        "text": "Bifurcación o cruce en T"
+      },
+      {
+        "id": "f",
+        "text": "Cruce ferroviario "
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "e",
+      "f"
+    ]
+  },
+  {
+    "id": 199,
+    "question": "Usted está enfrentando un semáforo en amarillo. ¿Qué luces se encenderán después?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Primero la roja y luego la amarilla nuevamente"
+      },
+      {
+        "id": "b",
+        "text": "Primero la roja y luego la verde"
+      },
+      {
+        "id": "c",
+        "text": "Primero la verde y luego la roja"
+      },
+      {
+        "id": "d",
+        "text": "Primero la verde y luego la amarilla nuevamente"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 200,
+    "question": "¿Qué significa la demarcación de centro de calzada que muestra la figura?\nMarque una respuesta",
+    "explanation": "",
+    "image": "200.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Que no puede ser traspasada por un conductor que viene por la pista A"
+      },
+      {
+        "id": "b",
+        "text": "Que no puede ser traspasada por un conductor que va por la pista B"
+      },
+      {
+        "id": "c",
+        "text": "Que en ningún caso pueden efectuarse adelantamientos"
+      },
+      {
+        "id": "d",
+        "text": "Que sólo un conductor que va por la pista B podría efectuar un adelantamiento"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 201,
+    "question": "El vehículo indicado con la flecha se encuentra detenido sobre una zona achurada esperando poder efectuar un viraje en U, ¿es esto correcto?\nMarque una respuesta",
+    "explanation": "",
+    "image": "201.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Sí, la zona achurada sólo separa sentidos de circulación"
+      },
+      {
+        "id": "b",
+        "text": "Sí, siempre que la zona achurada no esté reforzada con tachas o tachones reflectantes"
+      },
+      {
+        "id": "c",
+        "text": "No, porque los vehículos no pueden detenerse ni circular por zonas achuradas"
+      },
+      {
+        "id": "d",
+        "text": "No, porque se trata de una vía de mucho tránsito"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 202,
+    "question": "De acuerdo a las circunstancias que se aprecian en la fotografía, ¿sería correcto que el automóvil indicado con la flecha continuara derecho?\nMarque una respuesta",
+    "explanation": "",
+    "image": "202.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Si"
+      },
+      {
+        "id": "b",
+        "text": "No"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 203,
+    "question": "¿Qué le indica la señal de tránsito que se observa en la fotografía?\nMarque una respuesta",
+    "explanation": "",
+    "image": "203.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Que usted está obligado a detenerse a la altura de la señal"
+      },
+      {
+        "id": "b",
+        "text": "Advierte que el cruce al que usted se aproxima es peligroso"
+      },
+      {
+        "id": "c",
+        "text": "Que usted está obligado a ceder el paso a los vehículos que se aproximen por la otra vía"
+      },
+      {
+        "id": "d",
+        "text": "Es sólo una recomendación para que usted ponga especial atención al pasar el cruce"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 204,
+    "question": "¿Cuándo no debería usted detenerse al ponerse el semáforo en amarillo?\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Cuando la luz cambia sorpresivamente"
+      },
+      {
+        "id": "b",
+        "text": "Cuando va demasiado rápido"
+      },
+      {
+        "id": "c",
+        "text": "Cuando ya ha ingresado al cruce"
+      },
+      {
+        "id": "d",
+        "text": "Cuando está tan cerca del cruce que su detención puede ocasionar un accidente"
+      }
+    ],
+    "correctAnswers": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 205,
+    "question": "¿Qué significa la luz verde del semáforo?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Siga tan pronto aparezca la luz verde"
+      },
+      {
+        "id": "b",
+        "text": "Siga, pero sólo si su pista está expedita justo después del cruce"
+      },
+      {
+        "id": "c",
+        "text": "Siga después de mirar hacia ambos lados"
+      },
+      {
+        "id": "d",
+        "text": "Siga"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 206,
+    "question": "Usted se encuentra en el lugar de un accidente. ¿Qué hace para ayudar de mejor forma a una persona herida que está con una fuerte hemorragia en la parte inferior de una pierna?\nMarque dos respuestas",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "La sienta y le da a beber algo caliente para tranquilizarla"
+      },
+      {
+        "id": "b",
+        "text": "La mantiene tendida con la pierna herida en alto"
+      },
+      {
+        "id": "c",
+        "text": "Aplica presión manual firme sobre la herida con un paño limpio y luego la venda"
+      },
+      {
+        "id": "d",
+        "text": "La sienta y espera a que llegue una ambulancia"
+      },
+      {
+        "id": "e",
+        "text": "Le conversa tranquilamente ayudándola a mantenerse de pie"
+      }
+    ],
+    "correctAnswers": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 207,
+    "question": "Usted se ve involucrado en un accidente. Un pasajero del otro vehículo ha resultado con lesiones leves. ¿Debe usted informar el hecho a la policía?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Sí, debe dar cuenta del hecho a la policía dentro de los próximos 20 días"
+      },
+      {
+        "id": "b",
+        "text": "No, el pasajero lesionado debe decidir si se informa a la policía o no"
+      },
+      {
+        "id": "c",
+        "text": "No, los accidentes en que sólo resultan lesionados leves no se informan a la policía"
+      },
+      {
+        "id": "d",
+        "text": "Sí, debe dar cuenta del hecho a la autoridad policial más inmediata a la brevedad"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 208,
+    "question": "Usted se ha detenido en el lugar de un accidente para prestar ayuda. ¿Qué debería hacer usted?\nMarque tres respuestas ",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Mantener a las personas lesionadas en movimiento haciéndolas caminar"
+      },
+      {
+        "id": "b",
+        "text": "Dar a las personas heridas algo caliente para beber"
+      },
+      {
+        "id": "c",
+        "text": "Mantener abrigadas y cómodas a las personas heridas"
+      },
+      {
+        "id": "d",
+        "text": "Mantener tranquilas a las personas heridas hablándoles alentadoramente"
+      },
+      {
+        "id": "e",
+        "text": "Asegurarse de que no queden solos los heridos"
+      }
+    ],
+    "correctAnswers": [
+      "c",
+      "d",
+      "e"
+    ]
+  },
+  {
+    "id": 209,
+    "question": "Usted es el primero en llegar al lugar de un accidente en el que hay heridos graves. ¿Qué hace usted?\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Se asegura de que estén apagados los motores de los vehículos involucrados"
+      },
+      {
+        "id": "b",
+        "text": "Se asegura de que alguien llame al 133 de Carabineros"
+      },
+      {
+        "id": "c",
+        "text": "Intenta que los heridos beban algo"
+      },
+      {
+        "id": "d",
+        "text": "Saca de los autos a los heridos"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 210,
+    "question": "Usted llega al lugar de un accidente en el que participó un camión cargado con productos químicos peligrosos. ¿Qué debería hacer usted antes de llamar al 133 de Carabineros?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Tratar de mover el camión"
+      },
+      {
+        "id": "b",
+        "text": "Tratar de diluir los productos químicos con agua"
+      },
+      {
+        "id": "c",
+        "text": "Averiguar de qué clase de producto químico se trata mirando los rótulos y letreros que tiene el camión"
+      },
+      {
+        "id": "d",
+        "text": "Tratar de evitar que los productos químicos se sigan derramando"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 211,
+    "question": "Usted llega al lugar de un accidente en el que ha participado otro motociclista. Este yace consciente, pero en estado de shock. ¿De qué debería asegurarse usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Que el motociclista se saque el casco"
+      },
+      {
+        "id": "b",
+        "text": "Que el motociclista no se saque el casco"
+      },
+      {
+        "id": "c",
+        "text": "Que al motociclista se le ayude a ponerse de pie"
+      },
+      {
+        "id": "d",
+        "text": "Que al motociclista se le dé algo para beber"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 212,
+    "question": "Usted va por una autopista. De un camión cargado que va delante suyo cae una caja sin que su conductor se dé cuenta. ¿Qué hace usted?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Trata de alcanzar al camión y de llamar la atención de su conductor"
+      },
+      {
+        "id": "b",
+        "text": "Se detiene junto a la caja y hace señales de luces hasta que llegue la policía"
+      },
+      {
+        "id": "c",
+        "text": "Se desplaza hacia la berma y luego intenta recoger la caja"
+      },
+      {
+        "id": "d",
+        "text": "Continúa hasta donde haya un teléfono para avisar a la policía o a los servicios de emergencia"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 213,
+    "question": "¿Quién o quiénes están cubiertos por el Seguro Obligatorio de Accidentes Personales?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Sólo el conductor de la motocicleta asegurada"
+      },
+      {
+        "id": "b",
+        "text": "Sólo el que viaja como acompañante en la motocicleta asegurada"
+      },
+      {
+        "id": "c",
+        "text": "Sólo el acompañante y conductor de la motocicleta asegurada"
+      },
+      {
+        "id": "d",
+        "text": "El conductor, su acompañante y cualquier tercero afectado en un accidente de tránsito en que participe la motocicleta asegurada"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 214,
+    "question": "¿Qué documento no está obligado a portar usted siempre en su vehículo?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "El Permiso de Circulación"
+      },
+      {
+        "id": "b",
+        "text": "El certificado de un Seguro Obligatorio de Accidentes Personales"
+      },
+      {
+        "id": "c",
+        "text": "Su licencia de conductor"
+      },
+      {
+        "id": "d",
+        "text": "El certificado de revisión técnica o de homologación"
+      },
+      {
+        "id": "e",
+        "text": "El certificado de inscripción en el Registro Nacional de Vehículos Motorizados"
+      }
+    ],
+    "correctAnswers": [
+      "e"
+    ]
+  },
+  {
+    "id": 215,
+    "question": "En relación con las infracciones a las normas del tránsito, ¿cuál o cuáles de las siguientes afirmaciones es(son) verdadera(s)?\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Conducir un vehículo bajo los efectos del alcohol es una infracción gravísima"
+      },
+      {
+        "id": "b",
+        "text": "No respetar una señal PARE es una infracción gravísima"
+      },
+      {
+        "id": "c",
+        "text": "La comisión de una infracción gravísima es sancionada no sólo con una multa, sino que también con la suspensión de la licencia de conducir del infractor"
+      },
+      {
+        "id": "d",
+        "text": "Solamente son infracciones gravísimas el no respetar la luz roja de un semáforo y el exceso de velocidad"
+      },
+      {
+        "id": "e",
+        "text": "En ningún caso una licencia de conducir puede ser cancelada por el Juez"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 216,
+    "question": "¿Cuál o cuáles de las siguientes afirmaciones es(son) verdadera(s)?\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Las únicas infracciones gravísimas son el conducir bajo los efectos del alcohol y el exceso de velocidad"
+      },
+      {
+        "id": "b",
+        "text": "Las infracciones gravísimas son sancionadas con multas y, además, con la suspensión de la licencia de conducir del infractor"
+      },
+      {
+        "id": "c",
+        "text": "Dos infracciones graves cometidas en un período de 12 meses dan origen a una suspensión de la licencia de conducir del infractor"
+      },
+      {
+        "id": "d",
+        "text": "No respetar el derecho preferente de paso de un peatón es una infracción leve"
+      },
+      {
+        "id": "e",
+        "text": "No respetar una señal Ceda el Paso es una infracción gravísima si a consecuencia de la infracción se produce un accidente"
+      }
+    ],
+    "correctAnswers": [
+      "b",
+      "c",
+      "e"
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 // app/index.js
-import React from 'react';
-import { View, Button, StyleSheet } from 'react-native';
+import React, { useEffect } from 'react';
+import { View, Button, StyleSheet, useColorScheme } from 'react-native';
 import { useRouter } from 'expo-router';
 import questionsData from './data/questions.json';
 import { useQuizStore } from '../store';
@@ -9,6 +9,18 @@ export default function HomeScreen() {
   const router = useRouter();
   const setQuestions = useQuizStore((state) => state.setQuestions);
   const resetQuiz = useQuizStore((state) => state.resetQuiz);
+  const systemTheme = useColorScheme();
+  const { theme, setTheme, loadTheme } = useQuizStore();
+
+  useEffect(() => {
+    loadTheme(); // Load stored theme
+  }, []);
+
+  useEffect(() => {
+    if (!theme) {
+      setTheme(systemTheme); // Set the theme based on system preference
+    }
+  }, [systemTheme]);
 
   // Fisher‑Yates shuffle
   const shuffleArray = (array) => {
@@ -34,7 +46,7 @@ export default function HomeScreen() {
   
     // Select exactly 3 two-point questions
     const selectedTwoPointQuestions = shuffleArray(twoPointQuestions).slice(0, 3);
-  console.log(selectedTwoPointQuestions)
+
     // Select 32 one-point questions
     const selectedOnePointQuestions = shuffleArray(onePointQuestions).slice(0, 32);
   
@@ -55,7 +67,7 @@ export default function HomeScreen() {
 
   return (
     <View style={styles.container}>
-      <Button title="Start Quiz" onPress={startQuiz} />
+      <Button title="Iniciar Test" onPress={startQuiz} />
     </View>
   );
 }

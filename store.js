@@ -23,7 +23,8 @@ export const useQuizStore = create((set, get) => ({
     set((state) => ({ timer: state.timer > 0 ? state.timer - 1 : 0 })),
 
   // Theme State
-  theme: useColorScheme(), // Get system preference initially
+  // theme: useColorScheme(), // Get system preference initially
+  theme: "light", // Get system preference initially
   loadTheme: async () => {
     const storedTheme = await AsyncStorage.getItem('theme');
     if (storedTheme === 'light' || storedTheme === 'dark') {

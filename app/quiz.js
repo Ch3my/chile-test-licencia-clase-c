@@ -128,7 +128,28 @@ export default function QuizScreen() {
     '106': require('./data/106.jpg'),
     '113': require('./data/113.jpg'),
     '114': require('./data/114.jpg'),
-  };
+    '122': require('./data/122.jpg'),
+    '135': require('./data/135.jpg'),
+    '151': require('./data/151.jpg'),
+    '182': require('./data/182.jpg'),
+    '183': require('./data/183.jpg'),
+    '184': require('./data/184.jpg'),
+    '185': require('./data/185.jpg'),
+    '186': require('./data/186.jpg'),
+    '187': require('./data/187.jpg'),
+    '188': require('./data/188.jpg'),
+    '189': require('./data/189.jpg'),
+    '191': require('./data/191.jpg'),
+    '193': require('./data/193.jpg'),
+    '194': require('./data/194.jpg'),
+    '195': require('./data/195.jpg'),
+    '196': require('./data/196.jpg'),
+    '197': require('./data/197.jpg'),
+    '200': require('./data/200.jpg'),
+    '201': require('./data/201.jpg'),
+    '202': require('./data/202.jpg'),
+    '203': require('./data/203.jpg'),
+  };  
 
   const getImage = (filename) => imageMap[filename] || null;
 
@@ -143,6 +164,7 @@ export default function QuizScreen() {
           <Image
             source={getImage(question.image.split('.')[0])}
             style={styles.questionImage}
+            resizeMode='contain'
           />
         ) : null}
         {question.choices.map((choice) => {
@@ -193,12 +215,12 @@ export default function QuizScreen() {
 
       {/* Bottom Bar: Finish and Reset buttons */}
       <View style={styles.bottomBar}>
+        <Button title="Comenzar de nuevo" onPress={onResetQuiz} />
         <Button
-          title="Finish Quiz"
+          title="Revisar Test"
           onPress={onFinishQuiz}
           disabled={quizFinished}
         />
-        <Button title="Reset Quiz" onPress={onResetQuiz} />
       </View>
     </View>
   );
