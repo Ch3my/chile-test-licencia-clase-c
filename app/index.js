@@ -4,7 +4,6 @@ import { View, Button, StyleSheet, useColorScheme } from 'react-native';
 import { useRouter } from 'expo-router';
 import questionsData from './data/questions.json';
 import { useQuizStore } from '../store';
-import { StatusBar } from 'expo-status-bar';
 
 export default function HomeScreen() {
   const router = useRouter();
@@ -68,7 +67,6 @@ export default function HomeScreen() {
 
   return (
     <View style={styles.container}>
-      <StatusBar style={theme === 'light' ? 'dark' : 'light'} />
       <Button title="Iniciar Test" onPress={startQuiz} />
     </View>
   );

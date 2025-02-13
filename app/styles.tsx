@@ -34,7 +34,8 @@ export const layoutDarkStyles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
-    padding: 10,
+    paddingHorizontal: 10,
+    marginTop:20
   },
   text: {
     fontSize: APP_FONT_SIZE,
