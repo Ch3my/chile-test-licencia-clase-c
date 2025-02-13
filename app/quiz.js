@@ -90,8 +90,8 @@ export default function QuizScreen() {
     Alert.alert(
       'Test Completado',
       `Tu puntuacion: ${userScore}/${totalPoints}\n` +
-        `Test ${passed ? 'aprobado' : 'fallado'}.\n` +
-        `Respuestas correctas: ${percentage}%`
+      `Test ${passed ? 'aprobado' : 'fallado'}.\n` +
+      `Respuestas correctas: ${percentage}%`
     );
   }, [finishQuiz, questions, userAnswers]);
 
@@ -146,6 +146,15 @@ export default function QuizScreen() {
             </TouchableOpacity>
           );
         })}
+        {(quizFinished && question.explanation) && (
+          <View style={styles.explanationSection}>
+            <View style={styles.explanationHeaderContainer}>
+              <Text style={styles.explanationIcon}>ℹ️</Text>
+              <Text style={styles.explanationHeader}>Explicación</Text>
+            </View>
+            <Text style={styles.explanationText}>{question.explanation}</Text>
+          </View>
+        )}
       </View>
     ),
     [onSelectAnswer, quizFinished, userAnswers, styles]

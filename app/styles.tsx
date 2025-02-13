@@ -119,6 +119,34 @@ export const quizLightStyles = StyleSheet.create({
     justifyContent: 'space-around',
     paddingVertical: 10,
   },
+  explanationSection: {
+    marginTop: 10,
+    padding: 10,
+    borderWidth: 1,
+    borderColor: '#ddd',
+    borderRadius: 5,
+    backgroundColor: '#f9f9f9',
+  },
+  explanationHeader: {
+    fontSize: APP_FONT_SIZE,
+    fontWeight: 'bold',
+    marginBottom: 5,
+    color: '#000',
+  },
+  explanationText: {
+    fontSize: APP_FONT_SIZE,
+    color: '#333',
+  },
+  explanationIcon: {
+    fontSize: APP_FONT_SIZE,
+    marginRight: 5,
+  },
+  explanationHeaderContainer: {
+    flexDirection: 'row',
+    alignContent: 'center',
+    justifyContent: "center",
+    marginBottom: 5,
+  }
 });
 
 // Quiz - Dark Mode Styles
@@ -165,6 +193,19 @@ export const quizDarkStyles = StyleSheet.create({
   },
   incorrectChoice: {
     backgroundColor: '#8B0000',
+  },
+  explanationSection: {
+    ...quizLightStyles.explanationSection,
+    borderColor: '#444',
+    backgroundColor: '#333',
+  },
+  explanationHeader: {
+    ...quizLightStyles.explanationHeader,
+    color: '#fff',
+  },
+  explanationText: {
+    ...quizLightStyles.explanationHeader,
+    color: '#ccc',
   },
 });
 
