@@ -1,6 +1,5 @@
 // store.js
 import { create } from 'zustand';
-import { useColorScheme } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 export const useQuizStore = create((set, get) => ({
