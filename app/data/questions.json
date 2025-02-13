@@ -1433,7 +1433,7 @@
     "choices": [
       {
         "id": "a",
-        "text": "El tener una buena visión es imprescindible para poder captar las diversas situaciones que se presentan al conducir\nMarque la o las respuesta(s) correcta(s)"
+        "text": "El tener una buena visión es imprescindible para poder captar las diversas situaciones que se presentan al conducir"
       },
       {
         "id": "b",
@@ -5371,7 +5371,7 @@
     "id": 185,
     "question": "¿Qué significa esta señal de tránsito?\nMarque una respuesta",
     "explanation": "",
-    "image": "183.jpg",
+    "image": "185.jpg",
     "type": "single",
     "points": 1,
     "choices": [
@@ -5400,7 +5400,7 @@
     "id": 186,
     "question": "¿Qué significa esta señal?\nMarque una respuesta",
     "explanation": "",
-    "image": null,
+    "image": "186.jpg",
     "type": "single",
     "points": 1,
     "choices": [

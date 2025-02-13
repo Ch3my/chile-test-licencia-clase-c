@@ -3,7 +3,6 @@ import React, { useEffect, useCallback } from 'react';
 import {
   View,
   Text,
-  StyleSheet,
   FlatList,
   Button,
   TouchableOpacity,
@@ -12,6 +11,7 @@ import {
 } from 'react-native';
 import { useRouter } from 'expo-router';
 import { useQuizStore } from '../store';
+import { quizLightStyles, quizDarkStyles } from './styles';
 
 export default function QuizScreen() {
   const router = useRouter();
@@ -28,7 +28,7 @@ export default function QuizScreen() {
   } = useQuizStore();
 
   const isDarkMode = theme === 'dark';
-  const styles = isDarkMode ? darkStyles : lightStyles;
+  const styles = isDarkMode ? quizDarkStyles : quizLightStyles;
 
   // Timer effect
   useEffect(() => {
@@ -164,7 +164,6 @@ export default function QuizScreen() {
           <Image
             source={getImage(question.image.split('.')[0])}
             style={styles.questionImage}
-            resizeMode='contain'
           />
         ) : null}
         {question.choices.map((choice) => {
@@ -225,70 +224,3 @@ export default function QuizScreen() {
     </View>
   );
 }
-
-// Light Mode Styles
-const lightStyles = StyleSheet.create({
-  quizContainer: {
-    flex: 1,
-    paddingHorizontal: 5,
-    backgroundColor: '#ffffff',
-  },
-  topBar: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    padding: 10,
-    backgroundColor: '#f0f0f0',
-    borderRadius: 5,
-    marginBottom: 10,
-  },
-  timerText: { fontSize: 16, fontWeight: 'bold', color: '#000' },
-  progressText: { fontSize: 16, color: '#000' },
-  questionsContainer: { paddingBottom: 20 },
-  questionCard: {
-    marginBottom: 20,
-    padding: 10,
-    borderWidth: 1,
-    borderColor: '#ddd',
-    borderRadius: 5,
-    backgroundColor: '#fff',
-  },
-  questionText: { fontSize: 16, marginBottom: 5, color: '#000' },
-  // Added questionImage style for images (adjust as needed)
-  questionImage: {
-    width: '100%',
-    height: 200,
-    resizeMode: 'cover',
-    marginBottom: 10,
-  },
-  choiceButton: {
-    padding: 10,
-    marginVertical: 5,
-    borderWidth: 1,
-    borderColor: '#ccc',
-    borderRadius: 5,
-  },
-  selectedChoice: { backgroundColor: '#ddd' },
-  correctChoice: { backgroundColor: '#8f8' },
-  incorrectChoice: { backgroundColor: '#f88' },
-  choiceText: { fontSize: 14, color: '#000' },
-  bottomBar: {
-    flexDirection: 'row',
-    justifyContent: 'space-around',
-    paddingVertical: 10,
-  },
-});
-
-// Dark Mode Styles
-const darkStyles = StyleSheet.create({
-  ...lightStyles,
-  quizContainer: { ...lightStyles.quizContainer, backgroundColor: '#121212' },
-  topBar: { ...lightStyles.topBar, backgroundColor: '#333' },
-  timerText: { ...lightStyles.timerText, color: '#fff' },
-  progressText: { ...lightStyles.progressText, color: '#fff' },
-  questionCard: { ...lightStyles.questionCard, backgroundColor: '#222', borderColor: '#444' },
-  questionText: { ...lightStyles.questionText, color: '#fff' },
-  choiceButton: { ...lightStyles.choiceButton, borderColor: '#666' },
-  choiceText: { ...lightStyles.choiceText, color: '#fff' },
-  selectedChoice: { backgroundColor: '#000' },
-});
-
