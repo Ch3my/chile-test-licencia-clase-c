@@ -40,6 +40,9 @@ const imageMap = {
     '201': require('./data/201.jpg'),
     '202': require('./data/202.jpg'),
     '203': require('./data/203.jpg'),
+    '220': require('./data/220.jpg'),
+    '223': require('./data/223.jpg'),
+    '224': require('./data/224.jpg'),
 };
 
 export default imageMap;

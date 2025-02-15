@@ -6326,5 +6326,230 @@
       "c",
       "e"
     ]
+  },
+  {
+    "id": 217,
+    "question": "¿A que distancia maxima de la cuneta se deben estacionar los vehiculos?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "20 cm"
+      },
+      {
+        "id": "b",
+        "text": "60 cm"
+      },
+      {
+        "id": "c",
+        "text": "30 cm"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 218,
+    "question": "¿Desde que medida la legislacion chilena establece que un conductor se encuentra bajo la influencia del alcohol?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 2,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Mas de 0,31 y hasta 0,79 gramos por mil de alcohol en la sangre"
+      },
+      {
+        "id": "b",
+        "text": "Desde 0,1 e inferior a 0,8 gramos por mil de alcohol en la sangre"
+      },
+      {
+        "id": "c",
+        "text": "Desde 0,8 y mas gramos por mil de alcohol en la sangre"
+      },
+      {
+        "id": "d",
+        "text": "Ninguna de las anteriores"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 219,
+    "question": "Sobre el concepto de Educacion Vial ¿a que hace referencia?\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Al aprendizaje de las normas de la Ley de Transito"
+      },
+      {
+        "id": "b",
+        "text": "Al conocimiento del catalogo de señales de transito"
+      },
+      {
+        "id": "c",
+        "text": "Es la adquisicion de valores para poder alcanzar una mejor convivencia"
+      },
+      {
+        "id": "d",
+        "text": "Solo al aprendizaje de la ley de transito"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 220,
+    "question": "Segun la imagen, el vehiculo rojo ..... al vehiculo azul\nMarque una respuesta",
+    "explanation": "",
+    "image": "220.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Antecede"
+      },
+      {
+        "id": "b",
+        "text": "Sobrepasa"
+      },
+      {
+        "id": "c",
+        "text": "Centraliza"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 221,
+    "question": "Indique que elementos de una motocicleta son importantes de controlar por usted antes de comenzar a conducir\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Nivel de combustible"
+      },
+      {
+        "id": "b",
+        "text": "El estado de los neumaticos y la presion de aire de ellos"
+      },
+      {
+        "id": "c",
+        "text": "Luces, bocina y espejos"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 222,
+    "question": "Los niños son relativamente seguros en el transito a partir de\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Los 9 años"
+      },
+      {
+        "id": "b",
+        "text": "Los 15 años"
+      },
+      {
+        "id": "c",
+        "text": "De los 5 años"
+      },
+      {
+        "id": "d",
+        "text": "Ninguna de las anteriores"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 223,
+    "question": "Un carabinero parado de costado en la via significa\nMarque una respuesta",
+    "explanation": "",
+    "image": "223.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Lo mismo que la luz amarilla del semaforo"
+      },
+      {
+        "id": "b",
+        "text": "Lo mismo que la luz roja del semaforo"
+      },
+      {
+        "id": "c",
+        "text": "Autorizacion para avanzar"
+      },
+      {
+        "id": "d",
+        "text": "Preparado para un accidente"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 224,
+    "question": "Un carabinero parado de costado en la via significa\nMarque una respuesta",
+    "explanation": "",
+    "image": "224.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Zona de curvas a la derecha"
+      },
+      {
+        "id": "b",
+        "text": "Zona de curvas a la izquierda"
+      },
+      {
+        "id": "c",
+        "text": "Curva peligrosa"
+      },
+      {
+        "id": "d",
+        "text": "Curva cerrada a la derecha"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
   }
+
 ]
