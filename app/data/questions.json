@@ -2981,19 +2981,15 @@
     "choices": [
       {
         "id": "a",
-        "text": "Lo más a la derecha posible"
+        "text": "A"
       },
       {
         "id": "b",
-        "text": "Justo a la izquierda de la línea de centro de calzada"
+        "text": "B"
       },
       {
         "id": "c",
-        "text": "Justo a la derecha de la línea de centro de calzada"
-      },
-      {
-        "id": "d",
-        "text": "Justo a la derecha de la línea de centro de calzada"
+        "text": "C"
       }
     ],
     "correctAnswers": [
@@ -4784,7 +4780,7 @@
     "choices": [
       {
         "id": "a",
-        "text": "2 veces la distancia norma"
+        "text": "2 veces la distancia normal"
       },
       {
         "id": "b",
@@ -4796,7 +4792,7 @@
       },
       {
         "id": "d",
-        "text": "10 veces la distancia norma"
+        "text": "10 veces la distancia normal"
       }
     ],
     "correctAnswers": [
@@ -6550,6 +6546,234 @@
     "correctAnswers": [
       "b"
     ]
+  },
+  {
+    "id": 225,
+    "question": "Un vehiculo que circula a 100km/h recorre 27.7 metros en 1 segundo. Esta distancia se obtiene al dividir la velocidad (100km/h) por 3.6\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Si"
+      },
+      {
+        "id": "b",
+        "text": "No"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 226,
+    "question": "¿Que significa esta señal del transito?\nMarque una respuesta",
+    "explanation": "",
+    "image": "226.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Via diagonal a 100 metros"
+      },
+      {
+        "id": "b",
+        "text": "Salida autopista"
+      },
+      {
+        "id": "c",
+        "text": "Baliza de aproximacion a 100 metros"
+      },
+      {
+        "id": "d",
+        "text": "Ninguna de las anteriores"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 227,
+    "question": "Sobrepasar es:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Situarse detras de otro vehiculo, sobrepasando el eje de calzada"
+      },
+      {
+        "id": "b",
+        "text": "Pasar a otro vehiculo en el mismo sentido, sin traspasar el eje de calzada"
+      },
+      {
+        "id": "c",
+        "text": "Situarse delante de otro vehiculo, traspasando el eje de calzada"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 228,
+    "question": "La zona indicada en la fotografia que divide la via en dos se define como:\nMarque una respuesta",
+    "explanation": "",
+    "image": "228.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Bifurcacion"
+      },
+      {
+        "id": "b",
+        "text": "Cruce"
+      },
+      {
+        "id": "c",
+        "text": "Enlace"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 229,
+    "question": "Respecto al freno de motor, a mas baja cilindrada de la motocicleta, mayor sera la capacidad de frenado:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Verdadero"
+      },
+      {
+        "id": "b",
+        "text": "Falso"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 230,
+    "question": "¿Que debe hacer un conductor ante una luz amarilla intermitente del semaforo?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Detenerse completamente como si fuera una señal pare"
+      },
+      {
+        "id": "b",
+        "text": "Aproximarse al cruce a una velocidad reducida y continuar con la debida precaucion"
+      },
+      {
+        "id": "c",
+        "text": "Pasar porque tiene prioridad sobre la otra via"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 231,
+    "question": "Los elementos de un vehiculo destinados a que se reduzcan las posibilidades de sufrir un accidente se definen como:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Seguridad pasiva"
+      },
+      {
+        "id": "b",
+        "text": "Seguridad vial"
+      },
+      {
+        "id": "c",
+        "text": "Seguridad activa"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 232,
+    "question": "Ademas de las perdidas humanas, los accidentes de transito producen un enorme impacto economico, segun cifras de la OMS en Chile alcanzan al:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "1% del PIB"
+      },
+      {
+        "id": "b",
+        "text": "2% del PIB"
+      },
+      {
+        "id": "c",
+        "text": "3% del PIB"
+      },
+      {
+        "id": "d",
+        "text": "4% del PIB"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Los semaforos, señales verticales y demarcaciones viales son:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Leyes que cumplir"
+      },
+      {
+        "id": "b",
+        "text": "Formas de las instrucciones del transito"
+      },
+      {
+        "id": "c",
+        "text": "Advertencias para peatones"
+      },
+      {
+        "id": "d",
+        "text": "Distractores en la vía"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
   }
-
 ]
