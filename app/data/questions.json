@@ -6775,5 +6775,176 @@
     "correctAnswers": [
       "b"
     ]
+  },
+  {
+    "id": 234,
+    "question": "Indique si esta afirmacion es verdadera o falsa: Los conductores de automoviles deben ser conscientes de que son un integrante mas de la circulacion, junto con peatones y ciclistas, que son mas vulnerables\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Verdadero"
+      },
+      {
+        "id": "b",
+        "text": "Falso"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 235,
+    "question": "Al conducir un vehiculo con un mal comportamiento se corren riesgos que pueden poner en peligro su vida y la de los demas. Considerando estas circusntancias, los mayores riesgos a la hora de conducir son:\nMarque las respuestas correctas",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "La inexperiencia y la imprudencia"
+      },
+      {
+        "id": "b",
+        "text": "La falta de formacion"
+      },
+      {
+        "id": "c",
+        "text": "No realizar una mantencion periodica al vehiculo"
+      },
+      {
+        "id": "d",
+        "text": "No percibir los riesgos"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 236,
+    "question": "Usted no debe virar en  U:\nMarque las respuestas correctas",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "En las intersecciones de calles y caminos"
+      },
+      {
+        "id": "b",
+        "text": "En los pasos de peatones"
+      },
+      {
+        "id": "c",
+        "text": "A menos de 200 mt de una curva, cima o gradiente, cruce ferroviario, puente, tunel y viaducto"
+      },
+      {
+        "id": "d",
+        "text": "Donde la señal lo indique"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 237,
+    "question": "El dispositivo vial que permite el intercambio de vehiculos entre dos o mas vias a un mismo nivel se denomina:\nMarque una respuesta",
+    "explanation": "",
+    "image": "237.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Enlace"
+      },
+      {
+        "id": "b",
+        "text": "Cruce"
+      },
+      {
+        "id": "c",
+        "text": "Empalme"
+      },
+      {
+        "id": "d",
+        "text": "Paso a nivel"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Si un vehiculo se estaciona en un puente ¿Cual seria el tipo de infraccion cometida?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Infraccion leve"
+      },
+      {
+        "id": "b",
+        "text": "No es infraccion"
+      },
+      {
+        "id": "c",
+        "text": "Infraccion grave"
+      },
+      {
+        "id": "d",
+        "text": "Ninguna de las anteriores"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Usted conduce a 90Km/h en condiciones normales, ¿Cual es la distancia minima de seguridad que usted deberia mantener respecto del vehiculo que lo antecede?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Unos 75 metros"
+      },
+      {
+        "id": "b",
+        "text": "Unos 15 metros"
+      },
+      {
+        "id": "c",
+        "text": "Unos 20 metros"
+      },
+      {
+        "id": "d",
+        "text": "Unos 100 metros"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
   }
 ]
