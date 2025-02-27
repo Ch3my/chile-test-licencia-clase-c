@@ -1,5 +1,5 @@
 // app/quiz.js
-import React, { useEffect, useCallback } from 'react';
+import React, { useEffect, useCallback, useMemo } from 'react';
 import {
   View,
   Text,
@@ -108,6 +108,26 @@ export default function QuizScreen() {
     return `${m}:${s < 10 ? '0' : ''}${s}`;
   };
 
+  const result = useMemo(() => {
+    if (!quizFinished) return null;
+    let userScore = 0;
+    let correctCount = 0;
+    questions.forEach((question) => {
+      const userAnswer = userAnswers[question.id] || [];
+      const correctAnswers = question.correctAnswers;
+      if (
+        userAnswer.length === correctAnswers.length &&
+        userAnswer.every((ans) => correctAnswers.includes(ans))
+      ) {
+        userScore += question.points;
+        correctCount += 1;
+      }
+    });
+    const percentage = ((correctCount / questions.length) * 100).toFixed(2);
+    const passed = userScore >= 33;
+    return { percentage, passed };
+  }, [quizFinished, questions, userAnswers]);
+
   const getImage = (filename) => imageMap[filename] || null;
 
   // Render each question card
@@ -133,8 +153,13 @@ export default function QuizScreen() {
               key={choice.id}
               style={[
                 styles.choiceButton,
+                // When quiz is not finished, apply selection styling
                 !quizFinished && selected && styles.selectedChoice,
-                quizFinished && isCorrect && styles.correctChoice,
+                // When finished: if the answer is correct
+                quizFinished &&
+                isCorrect &&
+                (selected ? styles.correctChoice : styles.blueChoice),
+                // When finished: if the user selected a wrong answer
                 quizFinished && selected && !isCorrect && styles.incorrectChoice,
               ]}
               onPress={() =>
@@ -164,10 +189,20 @@ export default function QuizScreen() {
     <View style={styles.quizContainer}>
       {/* Top Bar: Timer and Progress */}
       <View style={styles.topBar}>
-        <Text style={styles.timerText}>Time Remaining: {formatTime(timer)}</Text>
-        <Text style={styles.progressText}>
-          Answered: {Object.keys(userAnswers).length} / {questions.length}
-        </Text>
+        <Text style={styles.timerText}>⏱️ {formatTime(timer)}</Text>
+          <Text style={styles.progressText}>
+            🏃 {Object.keys(userAnswers).length} / {questions.length}
+          </Text>
+          {result && (
+            <Text
+              style={[
+                styles.percentageText,
+                result.passed ? styles.success : styles.failure,
+              ]}
+            >
+             🏁 {result.percentage}%
+            </Text>
+          )}
       </View>
       <FlatList
         data={questions}

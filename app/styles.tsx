@@ -71,6 +71,11 @@ export const quizLightStyles = StyleSheet.create({
     fontSize: APP_FONT_SIZE,
     color: '#000',
   },
+  percentageText: {
+    fontSize: APP_FONT_SIZE,
+    fontWeight: 'bold',
+    color: '#000',
+  },
   questionsContainer: {
     paddingBottom: 20,
   },
@@ -110,6 +115,9 @@ export const quizLightStyles = StyleSheet.create({
   incorrectChoice: {
     backgroundColor: '#f88',
   },
+  blueChoice: {
+    backgroundColor: '#95defd',
+  },
   choiceText: {
     fontSize: APP_FONT_SIZE,
     color: '#000',
@@ -146,7 +154,13 @@ export const quizLightStyles = StyleSheet.create({
     alignContent: 'center',
     justifyContent: "center",
     marginBottom: 5,
-  }
+  },
+  success: {
+    color: '#006400',
+  },
+  failure: {
+    color: '#8B0000',
+  },
 });
 
 // Quiz - Dark Mode Styles
@@ -166,6 +180,10 @@ export const quizDarkStyles = StyleSheet.create({
   },
   progressText: {
     ...quizLightStyles.progressText,
+    color: '#fff',
+  },
+  percentageText: {
+    ...quizLightStyles.percentageText,
     color: '#fff',
   },
   questionCard: {
@@ -194,6 +212,9 @@ export const quizDarkStyles = StyleSheet.create({
   incorrectChoice: {
     backgroundColor: '#8B0000',
   },
+  blueChoice: {
+    backgroundColor: '#2c4889',
+  },
   explanationSection: {
     ...quizLightStyles.explanationSection,
     borderColor: '#444',
@@ -206,6 +227,12 @@ export const quizDarkStyles = StyleSheet.create({
   explanationText: {
     ...quizLightStyles.explanationHeader,
     color: '#ccc',
+  },
+  success: {
+    color: '#8f8',
+  },
+  failure: {
+    color: '#f88',
   },
 });
 
