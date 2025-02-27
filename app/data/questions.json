@@ -3545,7 +3545,7 @@
     "question": "Como regla general, ¿en cuál o cuáles de los siguientes lugares nunca debe estacionar?\nMarque la o las respuesta(s) correcta(s)",
     "explanation": "",
     "image": null,
-    "type": "single",
+    "type": "multiple",
     "points": 1,
     "choices": [
       {
