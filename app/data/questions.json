@@ -6946,5 +6946,461 @@
     "correctAnswers": [
       "a"
     ]
+  },
+  {
+    "id": 240,
+    "question": "La profundidad de los surcos de los neumaticos de su vehiculo no debería ser inferior a:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "5.0 mm"
+      },
+      {
+        "id": "b",
+        "text": "4.0 mm"
+      },
+      {
+        "id": "c",
+        "text": "1.6 mm"
+      },
+      {
+        "id": "d",
+        "text": "1.0 mm"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 241,
+    "question": "La profundidad de los surcos de los neumaticos de su vehiculo no debería ser inferior a:\nMarque una respuesta",
+    "explanation": "",
+    "image": "241.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Zona de estacionamiento"
+      },
+      {
+        "id": "b",
+        "text": "Plaza vehicular"
+      },
+      {
+        "id": "c",
+        "text": "Isla de canalizacion"
+      },
+      {
+        "id": "d",
+        "text": "Enlace"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 242,
+    "question": "Usted queda en pana en una carretera de doble via. ¿a que distancia de su vehiculo es recomendable ubicar los triangulos?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "A 5 metros"
+      },
+      {
+        "id": "b",
+        "text": "A 25 metros"
+      },
+      {
+        "id": "c",
+        "text": "A 50 metros"
+      },
+      {
+        "id": "d",
+        "text": "Da lo mismo la distancia, solo debe ponerlo atras del vehiculo"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 243,
+    "question": "Entre las conductas que implican riesgo de accidente, podemos identificar:\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "La impulsividad"
+      },
+      {
+        "id": "b",
+        "text": "El no asumir la culpa"
+      },
+      {
+        "id": "c",
+        "text": "Hacerse valer"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 244,
+    "question": "Calle o camino otro lugar destinado al transito de vehiculos, se denomina a:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Zona rural"
+      },
+      {
+        "id": "b",
+        "text": "Via"
+      },
+      {
+        "id": "c",
+        "text": "Zona urbana"
+      },
+      {
+        "id": "d",
+        "text": "Faja lateral, pavimentada o no, adyacente a la calzada de un camino"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 245,
+    "question": "Los costos humanos asociados a los accidentes de transito son:\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Perdida productividad (durante tratamiento y rehabilitacion)"
+      },
+      {
+        "id": "b",
+        "text": "Sufrimiento fisico y psicologico del lesionado"
+      },
+      {
+        "id": "c",
+        "text": "Sufrimiento fisico y psicologico de familiares y amigos"
+      },
+      {
+        "id": "d",
+        "text": "Daños a la propiedad publica"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 246,
+    "question": "¿Al conducir, de que manera usted puede contribuir a la seguridad del transito?\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Contando siempre con tiempo de sobra para conducir"
+      },
+      {
+        "id": "b",
+        "text": "Manteniendo su moto con estanque lleno de combustible"
+      },
+      {
+        "id": "c",
+        "text": "Nunca conducir durante la noche"
+      },
+      {
+        "id": "d",
+        "text": "Conduciendo siempre a la defensiva"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 247,
+    "question": "Segun las siguientes afirmaciones, indique cuales considera verdaderas:\nMarque la o las respuesta(s) correcta(s)",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "No es seguro que un adulto lleve a un niño pequeño incluyendolo en su cinturon de seguridad"
+      },
+      {
+        "id": "b",
+        "text": "El cinturon de seguridad disminuye las posibilidades de resultar lesionado en un accidente"
+      },
+      {
+        "id": "c",
+        "text": "Para quienes viajan en el asiento trasero el cinturon de seguridad no brinda mayor seguridad"
+      },
+      {
+        "id": "d",
+        "text": "Un cinturon de seguridad bien tensado brinda mayor seguridad que uno menos tensado"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 248,
+    "question": "La mayor cantidad de lesionados por accidentes de transito se produce en vias urbanas con un promedio anual sobre los:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "20.000 lesionados"
+      },
+      {
+        "id": "b",
+        "text": "30.000 lesionados"
+      },
+      {
+        "id": "c",
+        "text": "40.000 lesionados"
+      },
+      {
+        "id": "d",
+        "text": "50.000 lesionados"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
+  },
+  {
+    "id": 249,
+    "question": "Segun la imagen el carabinero parado de espaldas en el trayecto de su via indica que:\nMarque una respuesta",
+    "explanation": "",
+    "image": "249.jpg",
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Hay un accidente"
+      },
+      {
+        "id": "b",
+        "text": "Se detenga"
+      },
+      {
+        "id": "c",
+        "text": "Avance"
+      },
+      {
+        "id": "d",
+        "text": "Ninguna de las anteriores"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 250,
+    "question": "Las vias del transito reversibles son:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Son aquellas que varian sentido de transito en determinados periodos del dia"
+      },
+      {
+        "id": "b",
+        "text": "Son vias de dos sentidos de transito simultaneos"
+      },
+      {
+        "id": "c",
+        "text": "Son vias que siempre tienen un mismo sentido de transito"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ]
+  },
+  {
+    "id": 251,
+    "question": "En relacion con los cruces ferroviarios a nivel, ¿Cual de las siguientes afirmaciones es verdadera?:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Esta permitido estacionar a 10 metros de un cruce ferroviario a nivel"
+      },
+      {
+        "id": "b",
+        "text": "Si ha ingresado a un cruce ferroviario y siente que se aproxima un tren a lo lejos, lo mejor es continuar"
+      },
+      {
+        "id": "c",
+        "text": "Si va con la radio de su vehiculo encendida, no es necesario bajar el volumen cuando se aproxima a un cruce ferroviario"
+      },
+      {
+        "id": "d",
+        "text": "Nada impide que se pueda efectuar un adelantamiento en un cruce ferroviario, si no siente tren alguno en las proximidades"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 252,
+    "question": "Cuando dos vehiculos van a cruzarse en una interseccion en la que no hay señalizacion alguna ¿Quien debe ceder el paso?\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "El vehiculo mas pequeño"
+      },
+      {
+        "id": "b",
+        "text": "El vehiculo que va por la via con pistas mas angostas"
+      },
+      {
+        "id": "c",
+        "text": "El que se acerca primero al cruce"
+      },
+      {
+        "id": "d",
+        "text": "A los vehiculos que se aproximan al cruce por la otra via desde su derecha"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ]
+  },
+  {
+    "id": 253,
+    "question": "La señalizacion horizontal o marcas viales se clasifican segun su forma en:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "multiple",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Señales de prohibicion exclusivamente"
+      },
+      {
+        "id": "b",
+        "text": "Lineas transversales"
+      },
+      {
+        "id": "c",
+        "text": "Simbolos y leyendas"
+      }
+    ],
+    "correctAnswers": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 254,
+    "question": "Usted conduce un vehiculo en marcha lenta por un camino angosto y sinuoso. En estas circunstancias, usted deberia:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Circular cerca del centro de la calzada para evitar que otros lo adelanten peligrosamente"
+      },
+      {
+        "id": "b",
+        "text": "Correrse hacia la derecha cuando pueda hacerlo en forma segura, para permitir que otros lo adelanten"
+      },
+      {
+        "id": "c",
+        "text": "Hacer indicaciones con la mano a los otros conductores cuando usted crea que podran adelantarlo rapidamente"
+      },
+      {
+        "id": "d",
+        "text": "Señalizar con su intermitente derecho cuando adelantar no sea peligroso para los otros"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ]
+  },
+  {
+    "id": 255,
+    "question": "Las lineas y simbolos visibles sobre la calzada que regulan el transito se definen como:\nMarque una respuesta",
+    "explanation": "",
+    "image": null,
+    "type": "single",
+    "points": 1,
+    "choices": [
+      {
+        "id": "a",
+        "text": "Señales verticales"
+      },
+      {
+        "id": "b",
+        "text": "Areas neutrales"
+      },
+      {
+        "id": "c",
+        "text": "Demarcaciones"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ]
   }
 ]
