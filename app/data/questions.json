@@ -6520,7 +6520,7 @@
   },
   {
     "id": 224,
-    "question": "Un carabinero parado de costado en la via significa\nMarque una respuesta",
+    "question": "¿Que significa esta señal del transito?\nMarque una respuesta",
     "explanation": "",
     "image": "224.jpg",
     "type": "single",
@@ -7325,7 +7325,7 @@
   },
   {
     "id": 253,
-    "question": "La señalizacion horizontal o marcas viales se clasifican segun su forma en:\nMarque una respuesta",
+    "question": "La señalizacion horizontal o marcas viales se clasifican segun su forma en:\nMarque las respuestas correctas",
     "explanation": "",
     "image": null,
     "type": "multiple",
