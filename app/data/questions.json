@@ -5922,7 +5922,7 @@
     "question": "¿Cuándo no debería usted detenerse al ponerse el semáforo en amarillo?\nMarque la o las respuesta(s) correcta(s)",
     "explanation": "",
     "image": null,
-    "type": "single",
+    "type": "multiple",
     "points": 1,
     "choices": [
       {
